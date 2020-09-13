@@ -1,0 +1,8 @@
+body {
+	padding: 20px;
+}
+
+.selecionado {
+    font-weight: bold;
+    background-color: #F5F5F5;
+}
